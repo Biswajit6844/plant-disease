@@ -1,0 +1,6 @@
+streamlit
+Keras
+numpy
+opencv_python
+click
+protobuf==3.20.3
