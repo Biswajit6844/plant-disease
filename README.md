@@ -16,3 +16,6 @@ A point to note is that only 19 classes were used from the dataset since we were
 
 ![image](https://github.com/user-attachments/assets/671648cb-6777-4fbc-a760-a9242a430e22)
 
+![image](https://github.com/user-attachments/assets/32defa39-63cb-4948-8a01-a4f5822b0559)
+
+![image](https://github.com/user-attachments/assets/c1734b1d-477c-464a-8c95-503a9b0306b5)
