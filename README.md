@@ -8,3 +8,11 @@ The dataset can be found at https://www.crowdai.org/challenges/1
 The pre-trained VGG16 model trained on imagenet dataset was used and the last 4 convolutional layers were trained on our dataset. This process is called fine tuning.
 
 A point to note is that only 19 classes were used from the dataset since we were focussing on a particular region where only these crops are grown.
+
+![image](https://github.com/user-attachments/assets/10972023-484c-4523-bc60-b23e0e725f54)
+
+![image](https://github.com/user-attachments/assets/72abfd55-290d-426b-82ee-a68770a38c27)
+
+
+![image](https://github.com/user-attachments/assets/671648cb-6777-4fbc-a760-a9242a430e22)
+
