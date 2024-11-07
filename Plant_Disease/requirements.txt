@@ -1,7 +1,7 @@
 streamlit
-Keras
+Keras==2.9.0
 numpy
 opencv_python
 click
 protobuf==3.20.3
-tensorflow
+tensorflow==2.9.1
